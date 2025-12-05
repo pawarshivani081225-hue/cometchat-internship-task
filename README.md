@@ -1,3 +1,28 @@
+# CometChat Internship Task Submission – Shivani Pawar
+
+## Short Description
+This project demonstrates the CometChat UI Kit implementation using **React + Vite**.  
+It includes the running project, screenshots of key features, and a screen recording of the project in action.
+
+## Screenshots
+![Chat Screen](screenshots/Chat.png)
+![Dashboard](screenshots/Dashboard.png)
+![Groups](screenshots/Groups.png)
+![Group](screenshots/Groupchat.png)
+![Calls](screenshots/Calls.png)
+
+## Screen Recording
+[Watch the screen recording](screenshots/ScreenRecording.mp4)
+
+## Tech Stack
+- React
+- Vite
+- CometChat
+
+
+
+
+
 <p align="center">
   <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
 </p>
@@ -9,6 +34,8 @@
   <img alt="vite" src="https://img.shields.io/badge/vite-supported-646CFF?logo=vite" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
 </p>
+
+
 
 # Integration steps for UI Kit Builder
 
